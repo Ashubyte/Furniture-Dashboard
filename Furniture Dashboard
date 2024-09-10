@@ -1,0 +1,14 @@
+Furniture Dashboard
+
+About Dataset
+This dataset is generated for the purpose of analyzing furniture sales data using multiple regression techniques. 
+It contains 2,500 rows with 15 columns, 
+including 7 numerical columns and 7 categorical columns, along with a target variable
+(revenue) which represents the total revenue generated from furniture sales. The dataset captures various aspects
+of furniture sales, such as pricing, cost, sales volume, discount percentage, inventory levels, delivery time, and 
+different categorical attributes like furniture type, material, color, and store location.
+
+Linkedin : https://lnkd.in/dA4NRVjE
+Github : https://lnkd.in/d5-NimU9
+Datasets :
+https://lnkd.in/dymZVrHJ
